@@ -1,11 +1,4 @@
-<p align="center">✨ <span style="font-size: 40px; animation: fadeIn 2s ease-in-out;">Chiru</span> ✨</p>
-
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-</style>
+<h1>Hi there, I'm Chiru</h1
 <h3>A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **chirumunjam@gmail.com**
