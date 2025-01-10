@@ -1,4 +1,4 @@
-<h1 color="red">Hello there, I'm Chiru</h1>
+<h1 text-color="red">Hello there, I'm Chiru</h1>
 <h3>A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **chirumunjam@gmail.com**
