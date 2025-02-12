@@ -13,11 +13,9 @@
 
 <span><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"></span>
 <span><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"></span>
-
-
-
-
+<hr>
 <h3>Stats:</h3>
 <span><img src="https://github-readme-stats.vercel.app/api?username=chirumunjam&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="chirumunjam's GitHub Stats" /></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirumunjam&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="chirumunjam's GitHub Stats" /></span>
 <span><img src="https://streak-stats.demolab.com?user=chirumunjam&theme=gotham&hide_border=true" alt="chirumunjam's GitHub Stats" /></span>
+
