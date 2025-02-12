@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Chiru</h1
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=00F73F&vCenter=true&width=435&lines=Hey+there!+I'm+Chiru;Welcome+to+my+Github.)](https://git.io/typing-svg)
 <h3>A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **chirumunjam@gmail.com**
