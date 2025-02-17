@@ -20,5 +20,5 @@
 <h3>Stats:</h3>
 <span><img src="https://github-readme-stats.vercel.app/api?username=chirumunjam&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="chirumunjam's GitHub Stats" width="300" /></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirumunjam&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="chirumunjam's GitHub Stats" width="300" /></span>
-<span><img src="https://streak-stats.demolab.com?user=chirumunjam&theme=gotham&hide_border=true" alt="chirumunjam's GitHub Stats" width="300 /></span>
+<span><img src="https://streak-stats.demolab.com?user=chirumunjam&theme=gotham&hide_border=true" alt="chirumunjam's GitHub Stats" width="300" /></span>
 
